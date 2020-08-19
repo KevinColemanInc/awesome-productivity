@@ -1,6 +1,6 @@
 # Awesome Productivity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Awesome list of productivity tools and techniques to find your maximum
+> Tools and techniques to find your maximum
 
 
 ## Contents
